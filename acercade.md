@@ -19,11 +19,9 @@ Utilizamos una lista de correo para gestionar los avisos de nuevas charlas, reco
 
 ### :busts_in_silhouette: ¿Quién está detrás?
 
-[Raúl Ávila](http://raulavila.com) [(@_Raul_Avila)](https://twitter.com/_Raul_Avila) | [Raúl Villares](http://raulvillares.com) [(@raulvillaresbg)](https://twitter.com/raulvillaresbg)
-:-------------------------|:-------------------------
-![raulavila](./img/trump.jpg)  |  ![raulvillares](./img/dylan.jpg)
+Dos raules: Raúl Avila y Raúl Villares. En esta sección una pequeña descripción de ambos con sendos enlaces a las webs...
 
-
+![Raúl Ávila y Raúl Villares](./img/carltonarevalo.jpg)
 
 ### :raising_hand: Tengo que deciros algo, ¿cómo lo hago?
 
