@@ -19,11 +19,11 @@ Utilizamos una lista de correo para gestionar los avisos de nuevas charlas, reco
 
 ### :busts_in_silhouette: ¿Quién está detrás?
 
-[Raúl Ávila](http://raulavila.com) [(@_raulavila)](https://twitter.com/_raul_avila) | [Raúl Villares](http://raulvillares.com) [(@raulvillaresbg)](https://twitter.com/raulvillaresbg)
+[Raúl Ávila](http://raulavila.com) [(@_Raul_Avila)](https://twitter.com/_Raul_Avila) | [Raúl Villares](http://raulvillares.com) [(@raulvillaresbg)](https://twitter.com/raulvillaresbg)
 :-------------------------|:-------------------------
 ![raulavila](./img/trump.jpg)  |  ![raulvillares](./img/dylan.jpg)
 
- 
+
 
 ### :raising_hand: Tengo que deciros algo, ¿cómo lo hago?
 
