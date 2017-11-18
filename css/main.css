@@ -780,3 +780,8 @@ iframe.youtube {
 div > ul > li > p {
   margin: 20px 0;
 }
+
+.text-image {
+  height: 1em; 
+  width: 3em;
+}
