@@ -757,16 +757,26 @@ iframe.youtube {
   border-radius: 5px;
 }
 
-.collaborator-image {
-  float: right;
-  height: 142px;
-  width: 142px;
-  margin-top: -35px;
-  filter: grayscale(0%);
+.collaborator-page-image {
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 20px;
 }
 
-.collaborator-image img {
-  border-radius: 100px;
-  height: 142px;
-  width: 142px;
+.center {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.table-center {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+div > ul > li > p {
+  margin: 20px 0;
 }
