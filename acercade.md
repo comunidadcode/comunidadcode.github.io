@@ -9,11 +9,11 @@ CODE significa **C**harlas **O**nline de **D**esarrollo en **E**spañol. Es una 
 
 ### :bulb: ¿Cómo surgió la idea?
 
-Surgió de [una conversación en Twitter](https://masde140.com/t/meetup-virtual/279), inspirada en [VirtualJUG](https://virtualjug.com/) (una comunidad online centrada en la plataforma Java). A partir de ahí se gestó la idea de crear algo parecio pero más generalista y en español.
+Surgió de [una conversación en Twitter](https://masde140.com/t/meetup-virtual/279), inspirada en [VirtualJUG](https://virtualjug.com/) (una comunidad online centrada en la plataforma Java). A partir de ahí se gestó la idea de crear algo parecido pero más generalista y en español.
 
 ### :factory: ¿Cómo funciona?
 
-Cada tres semanas aproximadamente se realiza una sesión. Consiste en un hangout entre el ponente y un facilitador. El ponente da la charla (que se emite por directo en Youtube Live) y el facilitador se encarga de presentarla y de introducir algunas de las preguntas que pueden hacer los espectadores a través del chat de Youtube. Luego, esa charla se queda almacenada en el canal de Youtube.
+Se realizan sesiones peródicas, que consisten en un hangout entre el ponente y los facilitadores. El ponente da la charla (que se emite por directo en Youtube Live) y el facilitador se encarga de presentarla y de introducir algunas de las preguntas que pueden hacer los espectadores a través del chat de Youtube. Luego, esa charla se queda almacenada en el canal de Youtube.
 
 Utilizamos una lista de correo para gestionar los avisos de nuevas charlas, recordatorios y cambios en las mismas. Apúntate, ¡prometemos no ser nada pesados!
 
@@ -25,4 +25,4 @@ Dos raules: Raúl Avila y Raúl Villares. En esta sección una pequeña descripc
 
 ### :raising_hand: Tengo que deciros algo, ¿cómo lo hago?
 
-Lo mejor es que mandes un correo a hola@comunidadcode.com :email:
+Lo mejor es que mandes un correo a info@comunidadcode.com :email:
