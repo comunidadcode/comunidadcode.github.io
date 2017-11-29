@@ -13,7 +13,7 @@ Surgió de [una conversación en Twitter](https://masde140.com/t/meetup-virtual/
 
 ### :factory: ¿Cómo funciona?
 
-Se realizan sesiones peródicas, que consisten en un hangout entre el ponente y los facilitadores. El ponente da la charla (que se emite por directo en Youtube Live) y el facilitador se encarga de presentarla y de introducir algunas de las preguntas que pueden hacer los espectadores a través del chat de Youtube. Luego, esa charla se queda almacenada en el canal de Youtube.
+Se realizan sesiones periódicas, que consisten en un hangout entre el ponente y los facilitadores. El ponente da la charla (que se emite por directo en Youtube Live) y el facilitador se encarga de presentarla y de introducir algunas de las preguntas que pueden hacer los espectadores a través del chat de Youtube. Luego, esa charla se queda almacenada en el canal de Youtube.
 
 Utilizamos una lista de correo para gestionar los avisos de nuevas charlas, recordatorios y cambios en las mismas. Apúntate, ¡prometemos no ser nada pesados!
 
