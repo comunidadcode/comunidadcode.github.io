@@ -1,10 +1,13 @@
 ---
 layout: collaborator
 title: Raúl Villares
+twitter: raulvillaresbg
+homepage: http://raulvillares.com
+github: raulvillares
 ---
 
 ![Raúl Villares](/img/colaboradores/raul-villares.jpg){: .collaborator-page-image }
 
-Lorem fistrum consequat qui esse tiene musho peligro. Aute hasta luego Lucas no te digo trigo por no llamarte Rodrigor diodenoo. Adipisicing aliqua enim commodo condemor no te digo trigo por no llamarte Rodrigor condemor commodo minim a peich nisi. No te digo trigo por no llamarte Rodrigor aliqua magna pupita diodeno reprehenderit occaecat a peich velit consequat a wan.
+Actualmente desarrolla software y se lo pasa bien en [Alea Soluciones](https://github.com/aleasoluciones/bifer). Antiguo javero reconvertido a python, linux e incluso Vim.
 
-Lorem fistrum consequat qui esse tiene musho peligro. Aute hasta luego Lucas no te digo trigo por no llamarte Rodrigor diodenoo. Adipisicing aliqua enim commodo condemor no te digo trigo por no llamarte Rodrigor condemor commodo minim a peich nisi. No te digo trigo por no llamarte Rodrigor aliqua magna pupita diodeno reprehenderit occaecat a peich velit consequat a wan
+Cuando no está delante de un ordenador le gusta estar con su mujer e hijos, moverse por la ciudad en bicicleta, observar aves y escuchar música de los años 50, 60 y 70.
