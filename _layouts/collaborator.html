@@ -9,6 +9,37 @@ layout: base
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       {{ content }}
 
+      <ul class="list-inline text-center footer-links">
+
+        {% if page.homepage %}
+          <li>
+            <a href="{{ page.homepage }}" class="btn btn-social-icon btn-twitter" title="Página personal" target="_blank">
+              <span class="fa fa-fw fa-globe" aria-hidden="true"></span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+        {% endif %}
+
+        {% if page.twitter %}
+          <li>
+            <a href="https://twitter.com/{{ page.twitter }}" class="btn btn-social-icon btn-twitter" title="Cuenta de Twitter" target="_blank">
+              <span class="fa fa-fw fa-twitter" aria-hidden="true"></span>
+              <span class="sr-only">Twitter</span>
+            </a>
+        </li>
+        {% endif %}
+
+        {% if page.twitter %}
+          <li>
+            <a href="https://github.com/{{ page.github }}" class="btn btn-social-icon btn-twitter" title="Cuenta de Twitter" target="_blank">
+              <span class="fa fa-fw fa-github" aria-hidden="true"></span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+        {% endif %}
+
+      </ul>
+
       <hr/>
       <a class="center" href="/colaboradores">Todos los colaboradores de CODE</a>
     </div>
