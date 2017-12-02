@@ -785,3 +785,9 @@ div > ul > li > p {
   height: 1em; 
   width: 3em;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}

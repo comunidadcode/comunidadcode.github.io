@@ -19,9 +19,9 @@ Utilizamos una lista de correo para gestionar los avisos de nuevas charlas, reco
 
 ### :busts_in_silhouette: ¿Quién está detrás?
 
-Dos raules: Raúl Avila y Raúl Villares. En esta sección una pequeña descripción de ambos con sendos enlaces a las webs...
+Dos raules: [Raúl Avila](../colaboradores/raul-avila) y [Raúl Villares](../colaboradores/raul-villares).
 
-![Raúl Ávila y Raúl Villares](./img/carltonarevalo.jpg)
+![Raúl Ávila y Raúl Villares](./img/raules.jpg){: .center-image }
 
 ### :raising_hand: Tengo que deciros algo, ¿cómo lo hago?
 
