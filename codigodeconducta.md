@@ -12,10 +12,16 @@ La comunidad intenta favorecer la comunicación y los debates constructivos en u
 ## Versión menos corta
 
 * Ninguna persona será juzgada por su sexo, edad, nivel técnico, ideología, creencias, aspecto físico, sexualidad, vestimenta, o toda aquella virtud que le pueda hacer diferente al resto.
+
 * No se tolerarán bromas, chistes, sugerencias con contenido machista, xenófobo, LGBTófobo o cualquier tipo de manifestación que pudieran ser una cuestión de burla u odio a cualquier participante.
-* Las preguntas o comentarios que se realicen durante las sesiones en directo deben estar relacionadas con la exposición o con la experiencia profesional de la persona que la realiza. No se consideran apropiadas preguntas o comentarios que no guarden relación con el tema que se expone.
+
+* Las preguntas o comentarios que se realicen durante las sesiones en directo deben estar relacionadas con la exposición o con la experiencia profesional de la persona que la realiza. No 
+se consideran apropiadas preguntas o comentarios que no guarden relación con el tema que se expone.
+
 * Todo participante de la comunidad (incluidos coordinadores y ponentes) está sujeto a este código y tiene obligación de su conocimiento.
+
 * Los ponentes serán informados de este código de conducta y deberán aceptarlo antes de realizar su exposición.
+
 * No se invitará a participar como ponente a ninguna persona que haya mostrado con anterioridad actitudes que no encajen con este código de conducta.
 
 El código de conducta es aplicable a cualquier canal oficial de la comunidad.
