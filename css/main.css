@@ -791,3 +791,8 @@ div > ul > li > p {
     margin: 0 auto;
     display: block;
 }
+
+.text-center {
+  text-align: center;
+  color: #0085a1;
+}
