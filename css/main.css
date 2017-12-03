@@ -796,3 +796,7 @@ div > ul > li > p {
   text-align: center;
   color: #0085a1;
 }
+
+.button-wrapper .btn {
+  margin-bottom:5px;
+}
