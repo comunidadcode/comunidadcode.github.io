@@ -30,7 +30,7 @@ El código de conducta es aplicable a cualquier canal oficial de la comunidad.
 
 En caso de sentir que uno de los puntos anteriores no ha sido respetado (ya sea hacia tu persona o hacia la de uno de tus compañeros y compañeras) repórtalo a los coordinadores de la comunidad. Los coordinadores de la comunidad serán los encargados de decidir si el reporte y los argumentos justifican algún tipo de acción y el nivel de gravedad de la infracción. Recuerda que **tu anonimato estará asegurado** a la hora de reportar este tipo de conductas y no serás enjuiciado ni enjuiciada por los argumentos que expongas a los coordinadores.
 
-:email: hola@comunidadcode.com
+:email: info@comunidadcode.com
 
 --------------------------
 
