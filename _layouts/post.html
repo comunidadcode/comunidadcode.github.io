@@ -66,7 +66,7 @@ layout: base
       </ul>
 
 
-      {% if jekyll.environment == "production" %}
+      {% if jekyll.environment == "production" and page.masde140_post_id > 0 %}
         <br/>
         <div id='discourse-comments'></div>
           <script type="text/javascript">

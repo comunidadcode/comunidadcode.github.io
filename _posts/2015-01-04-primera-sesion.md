@@ -4,7 +4,7 @@ title: Sesión 1
 subtitle: ...la primera sesión
 imageIndex: /img/hello_world.jpeg
 bigimg: /img/path.jpg
-masde140_post_id: 479
+masde140_post_id: 0 
 
 ---
 
