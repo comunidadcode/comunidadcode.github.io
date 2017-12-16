@@ -12,13 +12,13 @@ Continious Delivery es el dial que nos permite identificar los cuellos de botell
 
 Describiré la cultura, sus caracteristicas core (aprendizaje continuo, XP development, DevOps, Arquitectura Evolutivas), su necesidad en nuestro contexto (startup, cloud), y los pasos que dimos para introducirla. También identificaré los retos a los que nos enfrentamos y las reticencias más típicas.
 
-Algunos enlaces relacionados:
+##### Algunos enlaces relacionados:
 
-* [http://www.eferro.net/2017/07/honey-badger-team-visual-history.html](http://www.eferro.net/2017/07/honey-badger-team-visual-history.html)
-* [http://www.eferro.net/2017/07/honey-badger-team-visual-history-ii.html](http://www.eferro.net/2017/07/honey-badger-team-visual-history.html)
-* [http://www.eferro.net/2017/07/honey-badger-team-visual-history-iii.html](http://www.eferro.net/2017/07/honey-badger-team-visual-history.html)
-* [http://www.eferro.net/2017/11/agilidad-hacia-la-entrega-continua-que.html](http://www.eferro.net/2017/07/honey-badger-team-visual-history.html)
-* [http://www.eferro.net/2017/10/charla-acelerando-la-cultura-devops.html](http://www.eferro.net/2017/07/honey-badger-team-visual-history.html)
+* [Honey badger Team / The visual history (I)](http://www.eferro.net/2017/07/honey-badger-team-visual-history.html){:target="_blank"}
+* [Honey badger Team / The visual history (II)](http://www.eferro.net/2017/07/honey-badger-team-visual-history-ii.html){:target="_blank"}
+* [Honey badger Team / The visual history (III)](http://www.eferro.net/2017/07/honey-badger-team-visual-history-iii.html){:target="_blank"}
+* [Agilidad. Hacia la entrega continua. ¿Qué te lo impide? CAS2017](http://www.eferro.net/2017/11/agilidad-hacia-la-entrega-continua-que.html){:target="_blank"}
+* [Charla: Acelerando la cultura DevOps usando Entrega Continua](http://www.eferro.net/2017/10/charla-acelerando-la-cultura-devops.html){:target="_blank"}
 
 <br/>
 
