@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Continuous Delivery
-subtitle: Germinando una cultura Agila moderna
+subtitle: Germinando una cultura Agile moderna
 imageIndex: /img/colaboradores/edu-ferro.jpg
 masde140_post_id: 0
 ---
