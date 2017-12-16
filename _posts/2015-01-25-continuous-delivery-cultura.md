@@ -3,6 +3,8 @@ layout: post
 title: Continuous Delivery
 subtitle: Germinando una cultura Agile moderna
 imageIndex: /img/colaboradores/edu-ferro.jpg
+speakerName: Eduardo Ferro
+speakerId: edu-ferro
 masde140_post_id: 0
 ---
 
