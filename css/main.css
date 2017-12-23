@@ -797,6 +797,40 @@ div > ul > li > p {
   color: #0085a1;
 }
 
+.text-next-session-title {
+    font-size: 30px;
+    margin-top: 0;
+    text-decoration: none;
+    color: #0085a1;
+}
+
+.text-next-session-subtitle {
+    margin: 0;
+    font-weight: 300;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #0085a1;
+}
+
+.text-countdown {
+    margin: 0;
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.text-next-session-header {
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    color: #000000;
+}
+
 .button-wrapper .btn {
   margin-bottom:5px;
 }
