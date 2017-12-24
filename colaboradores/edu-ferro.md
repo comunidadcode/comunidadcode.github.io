@@ -14,3 +14,7 @@ Más de 20 años de experiencia trabajando para aportar valor mediante la creaci
 Pese a mi pasión por la tecnología cada vez estoy más convencido que las relaciones entre las personas son lo fundamental para el éxito sostenible de un equipo y de sus efectos colaterales, los productos.
 
 Alineado con el movimiento de Software Craftsmanship, de desarrollo ágil y con el mindset de crecimiento asociado a estos movimientos.
+
+### Sesiones
+
+[Continuous Delivery: Germinando una cultura Agile moderna](../../proxima_sesion)
