@@ -834,3 +834,19 @@ div > ul > li > p {
 .button-wrapper .btn {
   margin-bottom:5px;
 }
+
+.next-session-image {
+  float: right;
+  height: 192px;
+  width: 192px;
+  margin-top: -35px;
+  filter: grayscale(20%);
+}
+.next-session-image:hover {
+  filter: grayscale(0%);
+}
+.next-session-image img {
+  border-radius: 100px;
+  height: 192px;
+  width: 192px;
+}
