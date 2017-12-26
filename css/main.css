@@ -783,7 +783,7 @@ div > ul > li > p {
 }
 
 .text-image {
-  height: 1em; 
+  height: 1em;
   width: 3em;
 }
 
@@ -851,4 +851,9 @@ div > ul > li > p {
   border-radius: 100px;
   height: 192px;
   width: 192px;
+}
+
+.post-share {
+  font-size: 75%;
+  margin-top: 10px;
 }

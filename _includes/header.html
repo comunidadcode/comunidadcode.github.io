@@ -61,8 +61,16 @@
 		  {% endif %}
 
 		  {% if include.type == "post" %}
-        <span class="post-meta">Fecha de emisión: {{ page.date | date: "%-d/%-m/%Y" }}</span> · 
+        <span class="post-meta">Fecha de emisión: {{ page.date | date: "%-d/%-m/%Y" }}</span> ·
         <span class="post-meta">Ponente: <a href='../colaboradores/{{ page.speakerId }}'>{{ page.speakerName }}</a></span>
+
+        <div class="post-share">
+            <a class="twitter-share-button"
+                data-via="comunidadcode"
+                data-count="none"
+                href="https://twitter.com/share">Tweet</a>
+        </div>
+
 		  {% endif %}
         </div>
       </div>
