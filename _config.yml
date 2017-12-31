@@ -25,10 +25,10 @@ description: Charlas Online de Desarrollo en Español
 # List of links in the navigation bar
 navbar-links:
   #Sesiones: "sesiones"
-  Sesiones: "proxima_sesion"
+  Sesiones: "proxima-sesion"
   Colaboradores: "colaboradores"
-  Código de conducta: "codigodeconducta"
-  Acerca de: "acercade"
+  Código de conducta: "codigo-de-conducta"
+  Acerca de: "acerca-de"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
