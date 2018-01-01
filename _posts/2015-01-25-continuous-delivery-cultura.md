@@ -5,7 +5,7 @@ subtitle: Germinando una cultura Agile moderna
 imageIndex: /img/colaboradores/edu-ferro.jpg
 speakerName: Eduardo Ferro
 speakerId: edu-ferro
-masde140_post_id: 0
+masde140_post_id: 504
 ---
 
 Esta charla describe en detalle, cómo usando como hilo conductor Continious Delivery se puede crear una cultura Agile moderna sana que evite silos, que mejore de forma continua y que responda al negocio.
