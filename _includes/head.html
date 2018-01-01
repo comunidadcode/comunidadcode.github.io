@@ -108,7 +108,11 @@
   {% elsif page.subtitle %}
   <meta name="twitter:description" content="{{ page.subtitle }}">
   {% else %}
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
+    {% if page.twitter-description %}
+      <meta name="twitter:description" content="{{ page.twitter-description }}">
+    {% else %}  
+      <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
+    {% endif %}
   {% endif %}
 
   {% if page.share-img %}

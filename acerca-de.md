@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca de
+twitter-description: Toda la información sobre en qué consiste la Comunidad CODE.
 ---
 
 ### :question: ¿Qué es CODE?
