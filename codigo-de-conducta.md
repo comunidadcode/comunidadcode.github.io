@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Código de conducta
+twitter-description: En la comunidad CODE creemos que el respeto y la diversidad es una fuente de riqueza que hay que fomentar y preservar.
 ---
 
 En la comunidad CODE creemos que **el respeto y la diversidad es una fuente de riqueza que hay que fomentar y preservar**.

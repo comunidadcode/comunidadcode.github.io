@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Propuestas de charlas
+twitter-description: Escríbenos y haremos lo posible para que tu propuesta se convierta en una realidad. ¡No te cortes!
 ---
 
 ## :bulb:

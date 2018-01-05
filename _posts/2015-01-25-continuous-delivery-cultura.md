@@ -6,6 +6,9 @@ imageIndex: /img/colaboradores/edu-ferro.jpg
 speakerName: Eduardo Ferro
 speakerId: edu-ferro
 masde140_post_id: 504
+twitter-title: Sesión 1
+twitter-description: Continuous Delivery, germinando una cultura Agile moderna. Eduardo Ferro.
+share-img: https://comunidadcode.com/img/colaboradores/edu-ferro.jpg
 ---
 
 Esta charla describe en detalle, cómo usando como hilo conductor Continious Delivery se puede crear una cultura Agile moderna sana que evite silos, que mejore de forma continua y que responda al negocio.
