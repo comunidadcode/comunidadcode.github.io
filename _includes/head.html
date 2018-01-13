@@ -127,4 +127,8 @@
   {% include google_analytics.html %}
   {% endif %}
 
+  {% if jekyll.environment == 'production' %}
+  {% include google_adsense.html %}
+  {% endif %}
+
 </head>
