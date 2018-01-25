@@ -2,41 +2,41 @@
 layout: page
 use-site-title: true
 twitter-title: Próxima sesión (25/01/2018)
-twitter-description: Continuous Delivery, germinando una cultura Agile moderna. Eduardo Ferro.
-share-img: https://comunidadcode.com/img/colaboradores/edu-ferro.jpg
+twitter-description: Ilusionismo con GitHub Pages. Cristina Fernández.
+share-img: https://comunidadcode.com/img/colaboradores/cristina-fernandez.jpg
 ---
 
 <div class="page-heading">
     <div class="text-next-session-header">Próxima sesión</div>
-    <div class="text-next-session-subheader">25 de enero de 2018 a las 19:00 CET</div>
+    <div class="text-next-session-subheader">15 de febrero de 2018 a las 19:00 CET</div>
     <hr class="small">
     <h2 class="text-countdown"><div id='countdown'></div></h2>
 </div>
-   
+
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Jan 25, 2018 19:00:00").getTime();
+  var countDownDate = new Date("Feb 15, 2018 19:00:00").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
 
       // Get todays date and time
       var now = new Date().getTime();
-      
+
       // Find the distance between now an the count down date
       var distance = countDownDate - now;
-      
+
       // Time calculations for days, hours, minutes and s,2econds
       var days = Math.floor(distance / (1000 * 60 * 60 * 24));
       var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
       var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
       var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-      
+
       // Output the result in an element with id="demo"
       document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
       + minutes + "m " + seconds + "s ";
-      
-      // If the count down is over, write some text 
+
+      // If the count down is over, write some text
       if (distance < 0) {
           clearInterval(x);
           document.getElementById("demo").innerHTML = "Sesión ya realizada";
@@ -44,31 +44,24 @@ share-img: https://comunidadcode.com/img/colaboradores/edu-ferro.jpg
   }, 1000);
 </script>
 
-  <article class="post-preview">
+<article class="post-preview">
   <div class="next-session-image">
-    <a href="../colaboradores/edu-ferro"><img src="/img/colaboradores/edu-ferro.jpg"></a>
-  </div> 
-	<h2 class="text-next-session-title">Continuous Delivery</h2>
-  <h3 class="text-next-session-subtitle">Germinando una cultura Agile moderna</h3>  
-  <p class="post-meta"><a href="../colaboradores/edu-ferro">Eduardo Ferro</a><br><br>
-    <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=N3VjNHZ1cWNyNWZwbGI3aGxxYTdiNDAxcHQgY29tdW5pZGFkY29kZUBt&tmsrc=comunidadcode%40gmail.com" target="_blank" class="post-read-more">· Añadir a mi calendario</a><br>
-    <a href="https://www.youtube.com/watch?v=hbggtXmQcf8" target="_blank" class="post-read-more">· Ver en Youtube</a>
-  </p>
+    <a href="../colaboradores/cristina-fernandez"><img src="/img/colaboradores/cristina-fernandez.jpg"></a>
+  </div>
+    <h2 class="text-next-session-title">Ilusionismo con Github Pages</h2>
+    <h3></h3>
+    <p class="post-meta"><a href="../colaboradores/cristina-fernandez">Cristina Fernández</a><br><br>
+        <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MW9wNnI1M2hqbG1oaXJpOG5jNWQwY2N1bGEgY29tdW5pZGFkY29kZUBt&tmsrc=comunidadcode%40gmail.com" target="_blank" class="post-read-more">· Añadir a mi calendario</a><br>
+        <a href="https://www.youtube.com/watch?v=VBKQIiTl8Bc" target="_blank" class="post-read-more">· Ver en Youtube</a>
+    </p>
 </article>
- 
-<p>Esta charla describe en detalle, cómo usando como hilo conductor Continuous Delivery se puede crear una cultura Agile moderna sana que evite silos, que mejore de forma continua y que responda al negocio.</p>
-<p>Continious Delivery es el dial que nos permite identificar los cuellos de botella en el proceso de desarrollo y operación de un sistema de sofware. Subes un poco, ves el problema, lo resuelves/minimizas y vuelves al primer paso.</p>
-<p>Describiré la cultura, sus características core (aprendizaje continuo, XP development, DevOps, Arquitectura Evolutivas), su necesidad en nuestro contexto (startup, cloud), y los pasos que dimos para introducirla. También identificaré los retos a los que nos enfrentamos y las reticencias más típicas.</p>
 
-<h4><a href="https://masde140.com/t/meetup-virtual/504" target ="_blank" class="post-read-more">[Plantea tus dudas o comentarios sobre esta sesión]</a></h4><br>
-<h4 id="algunos-enlaces-relacionados">Algunos enlaces relacionados:</h4>
+<p>Spin-off de "<a href="https://www.youtube.com/watch?v=J-cZU3Oramg" target="_blank">Trucos fantásticos y dónde encontrarlos</a>", en esta charla se va a profundizar en la técnica de transformación "GitHub Pages", que permite publicar una página web, crear un blog o hacer un tutorial con demos, código y notas, todo partiendo de un repositorio de código de GitHub.</p>
 
-<ul>
-  <li><a href="http://www.eferro.net/2017/07/honey-badger-team-visual-history.html" target="_blank">Honey badger Team / The visual history (I)</a></li>
-  <li><a href="http://www.eferro.net/2017/07/honey-badger-team-visual-history-ii.html" target="_blank">Honey badger Team / The visual history (II)</a></li>
-  <li><a href="http://www.eferro.net/2017/07/honey-badger-team-visual-history-iii.html" target="_blank">Honey badger Team / The visual history (III)</a></li>
-  <li><a href="http://www.eferro.net/2017/11/agilidad-hacia-la-entrega-continua-que.html" target="_blank">Agilidad. Hacia la entrega continua. ¿Qué te lo impide? CAS2017</a></li>
-  <li><a href="http://www.eferro.net/2017/10/charla-acelerando-la-cultura-devops.html" target="_blank">Charla: Acelerando la cultura DevOps usando Entrega Continua</a></li>
-</ul>
+<p>Para ilustrar esta técnica nos apoyaremos en trucos realizados por el ilusionista y cineasta Georges Méliès, uno de los primeros miembros de la escuela de Frontwarts (la escuela de magia frontend).</p>
+
+<h4><a href="https://masde140.com/t/meetup-virtual/516" target ="_blank" class="post-read-more">[Plantea tus dudas o comentarios sobre esta sesión]</a></h4><br>
+
 <p><br/></p>
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/hbggtXmQcf8" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/watch?v=VBKQIiTl8Bc" frameborder="0" allowfullscreen=""></iframe>

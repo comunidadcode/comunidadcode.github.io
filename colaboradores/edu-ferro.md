@@ -17,4 +17,4 @@ Alineado con el movimiento de Software Craftsmanship, de desarrollo ágil y con 
 
 ### Sesiones
 
-[Continuous Delivery: Germinando una cultura Agile moderna](../../proxima-sesion)
+[Continuous Delivery: Germinando una cultura Agile moderna](/2018-01-25-continuous-delivery-cultura)
