@@ -15,4 +15,4 @@ Como parte de la comunidad de Tech&Ladies, me propuse ayudar a visibilizar a las
 
 ### Sesiones
 
-[Ilusionismo con Github Pages](../../proxima_sesion_2)
+[Ilusionismo con Github Pages](../../proxima-sesion-2)

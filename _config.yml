@@ -25,7 +25,7 @@ description: Charlas Online de Desarrollo en Español
 # List of links in the navigation bar
 navbar-links:
   #Sesiones: "sesiones"
-  Sesiones: "proxima-sesion"
+  Sesiones: "sesiones"
   Colaboradores: "colaboradores"
   Código de conducta: "codigo-de-conducta"
   Acerca de: "acerca-de"

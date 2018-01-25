@@ -15,7 +15,7 @@ share-img: https://comunidadcode.com/img/colaboradores/edu-ferro.jpg
     <a href="../colaboradores/edu-ferro"><img src="/img/colaboradores/edu-ferro.jpg"></a>
   </div>
 
-Esta charla describe en detalle, cómo usando como hilo conductor Continious Delivery se puede crear una cultura Agile moderna sana que evite silos, que mejore de forma continua y que responda al negocio.
+Esta charla describe en detalle, cómo usando como hilo conductor Continuous Delivery se puede crear una cultura Agile moderna sana que evite silos, que mejore de forma continua y que responda al negocio.
 
 Continious Delivery es el dial que nos permite identificar los cuellos de botella en el proceso de desarrollo y operación de un sistema de sofware. Subes un poco, ves el problema, lo resuelves/minimizas y vuelves al primer paso.
 
