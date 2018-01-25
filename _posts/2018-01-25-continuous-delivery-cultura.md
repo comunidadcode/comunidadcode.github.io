@@ -22,7 +22,7 @@ Continious Delivery es el dial que nos permite identificar los cuellos de botell
 Describiré la cultura, sus caracteristicas core (aprendizaje continuo, XP development, DevOps, Arquitectura Evolutivas), su necesidad en nuestro contexto (startup, cloud), y los pasos que dimos para introducirla. También identificaré los retos a los que nos enfrentamos y las reticencias más típicas.
 
 ##### Algunos enlaces relacionados:
-
+* [Entrada en el blog de Eduardo sobre la sesión (incluye diapositivas)](http://www.eferro.net/2018/01/code-continious-delivery-germinando-una.html){:target="_blank"}
 * [Honey badger Team / The visual history (I)](http://www.eferro.net/2017/07/honey-badger-team-visual-history.html){:target="_blank"}
 * [Honey badger Team / The visual history (II)](http://www.eferro.net/2017/07/honey-badger-team-visual-history-ii.html){:target="_blank"}
 * [Honey badger Team / The visual history (III)](http://www.eferro.net/2017/07/honey-badger-team-visual-history-iii.html){:target="_blank"}
