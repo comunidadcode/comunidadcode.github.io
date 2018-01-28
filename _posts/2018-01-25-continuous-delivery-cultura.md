@@ -11,11 +11,11 @@ twitter-description: Continuous Delivery, germinando una cultura Agile moderna. 
 share-img: https://comunidadcode.com/img/colaboradores/edu-ferro.jpg
 ---
 
-  <div class="next-session-image">
-    <a href="../colaboradores/edu-ferro"><img src="/img/colaboradores/edu-ferro.jpg"></a>
-  </div>
-
 Esta charla describe en detalle, cómo usando como hilo conductor Continuous Delivery se puede crear una cultura Agile moderna sana que evite silos, que mejore de forma continua y que responda al negocio.
+
+<div class="next-session-image">
+<a href="../colaboradores/edu-ferro"><img src="/img/colaboradores/edu-ferro.jpg"></a>
+</div>
 
 Continious Delivery es el dial que nos permite identificar los cuellos de botella en el proceso de desarrollo y operación de un sistema de sofware. Subes un poco, ves el problema, lo resuelves/minimizas y vuelves al primer paso.
 
