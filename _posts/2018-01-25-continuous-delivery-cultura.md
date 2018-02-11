@@ -5,7 +5,6 @@ subtitle: Germinando una cultura Agile moderna
 imageIndex: /img/colaboradores/edu-ferro.jpg
 speakerName: Eduardo Ferro
 speakerId: edu-ferro
-masde140_post_id: 504
 twitter-title: Sesión 1
 twitter-description: Continuous Delivery, germinando una cultura Agile moderna. Eduardo Ferro.
 share-img: https://comunidadcode.com/img/colaboradores/edu-ferro.jpg
