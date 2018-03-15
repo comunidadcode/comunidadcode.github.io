@@ -14,4 +14,4 @@ Prefiero tabuladores a espacios. Habitualmente programo en Go, aunque Ruby solí
 
 ### Sesiones
 
-[Kubernetes 101: Una introducción al software que está revolucionando la nube](/../../proxima-sesion)
+[Kubernetes 101: Una introducción al software que está revolucionando la nube](/2018-03-14-kubernetes-101)
