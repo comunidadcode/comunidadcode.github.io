@@ -1,17 +1,20 @@
 ---
 layout: collaborator
-title: Rober Morales
-twitter: robermorales
-homepage: https://www.linkedin.com/in/robermorales/
+title: Eduardo Ferro
+twitter: eferro
+homepage: http://www.eferro.net/
 github: eferro
 ---
 ![Eduardo Ferro](/img/colaboradores/edu-ferro.jpg){: .collaborator-page-image }
 
-Aprendí a programar con 16 años, usando C y luego JavaScript, leyendo manuales que me descargaba de internet en una biblioteca pública. Manuales que otras personas habían escrito y traducido. Eso me hizo entender que enseñar, incluso pequeñas cosas, es la mejor forma de agradecer. Siempre me ha gustado comunicar lo poco que sé, continuando esa cadena con la que comencé en este precioso oficio.
+Comencé a jugar con ordenadores en los 80 con mi ZX Spectrum y descubrí que los ordenadores son un medio genial para crear, divertirse y automatizar tareas.
 
-Sacié la mayoría de mis curiosidades estudiando Ingeniería en Informática, en Cáceres. Estoy muy orgulloso de haber sido alumno de la Universidad de Extremadura. Actualmente trabajo de team lead en RStor, una startup californiana donde todos los días aprendo muchísimo. Intento poner cariño en todo lo que hago, y ser un buen desarrollador, aunque a veces me cuesta, porque no he visto ninguna peli de Star Wars. No tengo perdón.
+Más de 20 años de experiencia trabajando para aportar valor mediante la creación de software (programación, sistemas, testing, producto, etc.) en diferentes industrias (sistemas de tráfico, retail, telecomunicaciones, video, publicidad).
 
-Prefiero tabuladores a espacios. Habitualmente programo en Go, aunque Ruby solía ser mi lenguaje preferido.
+Pese a mi pasión por la tecnología cada vez estoy más convencido que las relaciones entre las personas son lo fundamental para el éxito sostenible de un equipo y de sus efectos colaterales, los productos.
+
+Alineado con el movimiento de Software Craftsmanship, de desarrollo ágil y con el mindset de crecimiento asociado a estos movimientos.
+
 ### Sesiones
 
 [Continuous Delivery: Germinando una cultura Agile moderna](/2018-01-25-continuous-delivery-cultura)
