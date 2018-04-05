@@ -15,4 +15,4 @@ He tenido muchos roles en los proyectos en los que he participado, desde desarro
 
 ### Sesiones
 
-[¿Por qué fallan los tests en Jenkins? ElasTest te ayuda a descubrirlo](/proxima-sesion)
+[¿Por qué fallan los tests en Jenkins? ElasTest te ayuda a descubrirlo](/2018-04-04-elastest)
