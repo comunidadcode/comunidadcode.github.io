@@ -15,4 +15,4 @@ Con el paso de los años, me sigue ilusionando como el primer día probar con nu
 
 ### Sesiones
 
-[¡Larga vida el legacy!](/proxima-sesion)
+[¡Larga vida el legacy!](/2018-04-25-larga-vida-al-legacy)

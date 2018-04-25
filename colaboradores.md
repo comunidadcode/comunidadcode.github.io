@@ -6,6 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
+* [Leonardo Micheloni](/colaboradores/leonardo-micheloni)
 * [Modesto San Juan](/colaboradores/modesto)
 * [Micael Gallego](/colaboradores/micael-gallego)
 * [Rober Morales](/colaboradores/rober-morales)
