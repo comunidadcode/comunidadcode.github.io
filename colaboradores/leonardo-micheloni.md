@@ -15,4 +15,4 @@ He trabajado en diferentes tipos de proyectos y he tenido la suerte de compartir
 
 ### Sesiones
 
-[Un viaje por CosmosDB](/proxima-sesion)
+[Un viaje por CosmosDB](/2018-05-17-cosmosdb/)
