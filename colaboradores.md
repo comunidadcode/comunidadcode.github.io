@@ -6,6 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
+* [David Gómez](/colaboradores/david-gomez)
 * [Joaquín Engelmo](/colaboradores/kini)
 * [Leonardo Micheloni](/colaboradores/leonardo-micheloni)
 * [Modesto San Juan](/colaboradores/modesto)

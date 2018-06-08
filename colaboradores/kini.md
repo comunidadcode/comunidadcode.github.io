@@ -15,4 +15,4 @@ En mis ratos libres hago ejercicio sin conseguir grandes resultados, intento coc
 
 ### Sesiones
 
-[Microservices from the trenches](/proxima-sesion)
+[Microservices from the trenches](/2018-06-06-microservices-from-the-trenches)
