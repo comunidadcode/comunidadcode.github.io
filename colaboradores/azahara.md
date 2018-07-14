@@ -11,4 +11,4 @@ En mis ratos libres me dedico a ver charlas, comunicarme en redes sociales con l
 
 ### Sesiones
 
-[Cuando los propósitos de año nuevo se cumplen. Comparando Angular, React y Aurelia](/proxima-sesion)
+[Cuando los propósitos de año nuevo se cumplen. Comparando Angular, React y Aurelia](/2018-07-09-angular-react-aurelia)

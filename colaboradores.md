@@ -6,6 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
+* [Félix López](/colaboradores/felix-lopez)
 * [Azahara Fernández](/colaboradores/azahara)
 * [David Gómez](/colaboradores/david-gomez)
 * [Joaquín Engelmo](/colaboradores/kini)
