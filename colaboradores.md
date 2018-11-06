@@ -6,7 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
-* [Carmen Ansio](/colaboradores/carmen-ansio)
+* [Fina Pérez](/colaboradores/fina-perez)
 * [Félix López](/colaboradores/felix-lopez)
 * [Azahara Fernández](/colaboradores/azahara)
 * [David Gómez](/colaboradores/david-gomez)
