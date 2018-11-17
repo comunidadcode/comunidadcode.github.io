@@ -11,4 +11,4 @@ twitter: finuka
 
 ### Sesiones
 
-[Motivating teams](/proxima-sesion)
+[Motivating teams](/2018-11-15-motivating-teams)
