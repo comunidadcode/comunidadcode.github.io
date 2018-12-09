@@ -6,7 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
-* [Juanjo @kastwey](/colaboradores/juanjo-kastwey)
+* [Juanjo Montiel](/colaboradores/juanjo-montiel)
 * [Fina Pérez](/colaboradores/fina-perez)
 * [Félix López](/colaboradores/felix-lopez)
 * [Azahara Fernández](/colaboradores/azahara)
