@@ -22,4 +22,4 @@ Un pequeño spoiler: esa tarea no solo está en las manos del manager :wink:
 
 <br/>
 
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/FQbm7N6VgXg" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/FQbm7N6VgXg" frameborder="0" allowfullscreen title="Video de Youtube: Motivating Teams"></iframe>

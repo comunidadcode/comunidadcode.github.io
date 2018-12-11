@@ -22,4 +22,4 @@ En esta charla tras realizar una introducción a los tres frameworks y mostrar a
 
 <br/>
 
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/hCz6eMthbV8" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/hCz6eMthbV8" frameborder="0" allowfullscreen title="Video de Youtube: Comparativa Angular, React y Aurelia"></iframe>

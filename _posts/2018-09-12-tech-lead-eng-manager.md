@@ -21,4 +21,4 @@ En esta charla revisaré los típicos jefes tóxicos que todos nos hemos encontr
 
 <br/>
 
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/LD9G-pWung4" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/LD9G-pWung4" frameborder="0" allowfullscreen title="Video de Youtube: Tech Lead vs Engineering Manager"></iframe>

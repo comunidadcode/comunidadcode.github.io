@@ -22,4 +22,4 @@ Mundo real, problemas reales, soluciones reales y en producción durante años q
 
 <br/>
 
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/__bdnNqEAw0" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/__bdnNqEAw0" frameborder="0" allowfullscreen title="Video de Youtube: microservices from the trenches"></iframe>

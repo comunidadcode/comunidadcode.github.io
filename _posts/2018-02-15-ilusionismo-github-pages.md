@@ -19,4 +19,4 @@ Para ilustrar esta técnica nos apoyaremos en trucos realizados por el ilusionis
 
 <br/>
 
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/VBKQIiTl8Bc" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/VBKQIiTl8Bc" frameborder="0" allowfullscreen title="Video de Youtube: Ilusionismo con Github Pages"></iframe>
