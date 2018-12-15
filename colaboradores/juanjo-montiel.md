@@ -1,6 +1,6 @@
 ---
 layout: collaborator
-title: Juanjo @kastwey
+title: Juanjo Montiel
 twitter: kastwey
 ---
 ![Juanjo Montiel](/img/colaboradores/juanjo-montiel.jpg){: .collaborator-page-image }
@@ -32,4 +32,4 @@ literatura.
 
 ### Sesiones
 
-[Dando sentido a la *World* Wide Web](/proxima-sesion)
+[Dando sentido a la *World* Wide Web](/2018-12-13-dando-sentido-world-wide-web)
