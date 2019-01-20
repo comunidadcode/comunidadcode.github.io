@@ -12,4 +12,4 @@ En su faceta divulgativa, Abraham es coautor de ["Continuous Delivery in Java"](
 
 ### Sesiones
 
-[Descomponiendo el build: patrones arquitectónicos para una pipeline más rápida](/proxima-sesion)
+[Descomponiendo el build: patrones arquitectónicos para una pipeline más rápida](/2019-01-16-descomponiendo-el-build)
