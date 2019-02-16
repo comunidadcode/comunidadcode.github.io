@@ -15,4 +15,4 @@ Mucho conocimiento lo comparto en el portal [AdictosAlTrabajo.com](https://www.a
 
 ### Sesiones
 
-[DevUI: poniendo orden en el front](/proxima-sesion)
+[DevUI: poniendo orden en el front](/2019-02-06-devui)

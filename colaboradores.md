@@ -6,6 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
+* [Mark Heckler](/colaboradores/mark-heckler)
 * [Rubén Aguilera](/colaboradores/ruben-aguilera)
 * [Abraham Marín Pérez](/colaboradores/abraham-marin-perez)
 * [Juanjo Montiel](/colaboradores/juanjo-montiel)
