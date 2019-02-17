@@ -10,7 +10,7 @@ CODE significa **C**harlas **O**nline de **D**esarrollo en **E**spañol. Es una 
 
 ## :bulb: ¿Cómo surgió la idea?
 
-Surgió de [una conversación en Twitter](https://masde140.com/t/meetup-virtual/279){:target="_blank"}, inspirada en [VirtualJUG](https://virtualjug.com/){:target="_blank"} (una comunidad online centrada en la plataforma Java). A partir de ahí se gestó la idea de crear algo parecido pero más generalista y en español.
+Surgió de [una conversación en Twitter](https://raulvillares.com/masde140/archivo/archivo05.html){:target="_blank"}, inspirada en [VirtualJUG](https://virtualjug.com/){:target="_blank"} (una comunidad online centrada en la plataforma Java). A partir de ahí se gestó la idea de crear algo parecido pero más generalista y en español.
 
 ## :factory: ¿Cómo funciona?
 
