@@ -6,6 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
+* [Julio Palma y Jorge Hidalgo](/colaboradores/julio-jorge)
 * [Mark Heckler](/colaboradores/mark-heckler)
 * [Rubén Aguilera](/colaboradores/ruben-aguilera)
 * [Abraham Marín Pérez](/colaboradores/abraham-marin-perez)

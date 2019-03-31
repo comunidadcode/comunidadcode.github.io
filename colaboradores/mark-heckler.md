@@ -10,4 +10,4 @@ Mark Heckler es Principal Technologist y Spring Developer Advocate, ponente, y a
 
 ### Sesiones
 
-[Construyendo Pipelines Reactivos: Como ir de aplicaciones escalables a aplicaciones RIDÍCULAMENTE escalables](/proxima-sesion)
+[Construyendo Pipelines Reactivos: Como ir de aplicaciones escalables a aplicaciones RIDÍCULAMENTE escalables](/2019-03-17-pipelines-reactivos)
