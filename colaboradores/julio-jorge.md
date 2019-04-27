@@ -10,4 +10,4 @@ Jorge trabaja como Global Java Community of Practice Lead en Accenture, donde ha
 
 ### Sesiones
 
-[Pipelines de entrega continua multilenguaje con Jenkins y Docker](/proxima-sesion)
+[Pipelines de entrega continua multilenguaje con Jenkins y Docker](/2019-04-10-pipelines-jenkins)
