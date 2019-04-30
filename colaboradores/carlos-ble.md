@@ -5,7 +5,7 @@ twitter: carlosble
 ---
 ![Carlos Blé](/img/colaboradores/carlos-ble.jpg){: .collaborator-page-image }
 
-Más información pronto...
+Fundador de Lean Mind. Emprendedor, desarrollador, autor, consultor, entrenador, mentor, vegano tolerante, feminista, amante de los animales y deportista. Perfil linkedin: [https://www.linkedin.com/in/carlosble/](https://www.linkedin.com/in/carlosble/).
 
 ### Sesiones
 
