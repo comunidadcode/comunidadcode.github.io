@@ -9,4 +9,4 @@ Fundador de Lean Mind. Emprendedor, desarrollador, autor, consultor, entrenador,
 
 ### Sesiones
 
-[Cultura de trabajo remoto. Individuos y equipos que teletrabajan](/proxima-sesion)
+[Cultura de trabajo remoto. Individuos y equipos que teletrabajan](/2019-05-02-cultura-trabajo-remoto)

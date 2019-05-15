@@ -6,6 +6,7 @@ twitter-description: Estos son los colaboradores que hemos tenido en CODE hasta 
 
 Estos son los colaboradores que hemos tenido en CODE hasta la fecha:
 
+* [Katia Aresti](/colaboradores/katia-aresti)
 * [Carlos Blé](/colaboradores/carlos-ble)
 * [Julio Palma y Jorge Hidalgo](/colaboradores/julio-jorge)
 * [Mark Heckler](/colaboradores/mark-heckler)
