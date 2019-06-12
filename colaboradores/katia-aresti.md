@@ -9,4 +9,4 @@ Katia Aresti es programadora en Red Hat en el equipo de Infinispan/Datadrid desd
 
 ### Sesiones
 
-[Cachés distribuídas/datagrids ¿Qué son y qué pueden hacer por ti?](/proxima-sesion)
+[Cachés distribuídas/datagrids ¿Qué son y qué pueden hacer por ti?](/2019-06-05-caches-distribuidas-datagrids)

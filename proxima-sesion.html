@@ -1,68 +1,76 @@
 ---
 layout: page
 use-site-title: true
-twitter-title: Cachés distribuídas/datagrids. 5 de junio de 2019 a las 18:30h CET
-twitter-description: ¿Qué son y qué pueden hacer por ti?
-share-img: https://comunidadcode.com/img/colaboradores/katia-aresti.jpg
+twitter-title: Aventuras y desventuras de un mindundi en Spotify. 24 de junio de 2019 a las 19:30h CEST
+twitter-description: Aventuras y desventuras de un mindundi en Spotify
+share-img: https://comunidadcode.com/img/colaboradores/isidro.jpg
 ---
 
 <div class="page-heading">
-    <div class="text-next-session-header">Próxima sesión</div>
-    <div class="text-next-session-subheader">5 de junio de 2019 a las 18:30h CET</div>
-    <hr class="small">
-    <h2 class="text-countdown"><div id='countdown'></div></h2>
+  <div class="text-next-session-header">Próxima sesión</div>
+  <div class="text-next-session-subheader">24 de junio de 2019 a las 19:30h CEST</div>
+  <hr class="small">
+  <h2 class="text-countdown">
+    <div id='countdown'></div>
+  </h2>
 </div>
 
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Jun 5, 2019 18:30:00").getTime();
+  var countDownDate = new Date("Jun 24, 2019 19:30:00").getTime();
 
   // Update the count down every 1 second
-  var x = setInterval(function() {
+  var x = setInterval(function () {
 
-      // Get todays date and time
-      var now = new Date().getTime();
+    // Get todays date and time
+    var now = new Date().getTime();
 
-      // Find the distance between now an the count down date
-      var distance = countDownDate - now;
+    // Find the distance between now an the count down date
+    var distance = countDownDate - now;
 
-      // Time calculations for days, hours, minutes and s,2econds
-      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    // Time calculations for days, hours, minutes and s,2econds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-      // Output the result in an element with id="demo"
-      document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+    // Output the result in an element with id="demo"
+    document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
       + minutes + "m " + seconds + "s ";
 
-      // If the count down is over, write some text
-      if (distance < 0) {
-          clearInterval(x);
-          document.getElementById("demo").innerHTML = "Sesión ya realizada";
-      }
+    // If the count down is over, write some text
+    if (distance < 0) {
+      clearInterval(x);
+      document.getElementById("demo").innerHTML = "Sesión ya realizada";
+    }
   }, 1000);
 </script>
 
 <article class="post-preview">
   <div class="next-session-image">
-    <a href="../colaboradores/katia-aresti"><img src="/img/colaboradores/katia-aresti.jpg"></a>
+    <a href="../colaboradores/isidro"><img src="/img/colaboradores/isidro.jpg"></a>
   </div>
-    <h2 class="text-next-session-title">Cachés distribuídas/datagrids ¿Qué son y qué pueden hacer por ti?</h2>
-    <h3></h3>
-    <p class="post-meta"><a href="../colaboradores/katia-aresti">Katia Aresti</a><br><br>
-        <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NnBkdWd0NTVibmVwanUxMmJrbmJ2a3QyNGYgY29tdW5pZGFkY29kZUBt&tmsrc=comunidadcode%40gmail.com" target="_blank" class="post-read-more">· Añadir a mi calendario</a><br>
-        <a href="https://www.youtube.com/watch?v=RO7KQL8lOuM" target="_blank" class="post-read-more">· Ver en Youtube</a>
-    </p>
+  <h2 class="text-next-session-title">Aventuras y desventuras de un mindundi en Spotify</h2>
+  <h3></h3>
+  <p class="post-meta"><a href="../colaboradores/isidro">Isidro López</a><br><br>
+    <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=M3VxamlvcGRocmo3djVhZ2FndTJ1ZzlwZTIgY29tdW5pZGFkY29kZUBt&tmsrc=comunidadcode%40gmail.com"
+      target="_blank" class="post-read-more">· Añadir a mi calendario</a><br>
+    <a href="https://www.youtube.com/watch?v=B5GHW8Eym_w" target="_blank" class="post-read-more">· Ver en Youtube</a>
+  </p>
 </article>
 
 <p>
-Las cachés distribuídas, bases de datos clave valor y las datagrids existen desde hace años. Como programadora desde hace más de dos años en el equipo Infinispan/Datagrid - 100% open-source - y moviendome en diferentes conferencias y meetups, me sorprendo al constatar lo siguiente: para una gran parte de l@s programadore-a-s, las cachés distribuídas son todavía un misterio.
+  Mucho se ha hablado, y se sigue hablando, del conocido como “modelo Spotify”. Pero poco se ha compartido sobre el
+  estado actual de dicho “modelo”...
 </p>
 <p>
-En esta charla 50% teórica, 50% live-coding y utilizando Infinispan - siendo el contenido aplicable a otros productos - abordaré qué son las cachés distribuídas/datagrids, donde, cómo, cuando y porqué utilizarlas.
+  Tanto para quien esté interesado en trabajar en Spotify, como para quien quiera conocer un poco mejor cómo funciona
+  internamente a día de hoy (prácticas, organización interna, etc.), me gustaría compartir humildemente cuál fue mi
+  experiencia “end-to-end”: desde la fase de contacto, el proceso de selección, el onboarding, la luna de miel… la de
+  hiel y el posterior offboarding ;-)
 </p>
 
-<br/><br/>
+<br /><br />
 
-<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/RO7KQL8lOuM" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube" width="560" height="315" src="https://www.youtube.com/embed/B5GHW8Eym_w" frameborder="0"
+  allowfullscreen></iframe>
